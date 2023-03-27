@@ -7,8 +7,8 @@ This script is written in Python 3.10.6.
 ### How to run the script
 
 1. Clone the repository
-2. Run `gen_img.py`
-3. Run `comp_img.py`
+2. Run `gen_image.py`
+3. Run `comp_image.py`
 
 ## Requirements
 
